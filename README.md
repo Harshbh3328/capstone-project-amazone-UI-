@@ -1,6 +1,6 @@
 🛒 Amazon UI Clone – React Project
 **LIVE DEMO**
-https://shashwat232005.github.io/capstone-project-amazone-UI-/
+https://harshbh3328.github.io/capstone-project-amazone-UI-/
 
 📌 Project Overview
 
