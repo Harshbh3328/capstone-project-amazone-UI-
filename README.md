@@ -11,9 +11,9 @@ The application replicates the look and feel of Amazon’s homepage, including n
 
 👨‍🎓 Student Details
 
-Name: Shashwat Thakur
+Name: Harsh Bhardwaj
 
-Roll Number: 23BCS11110
+Roll Number: 23BCS13058
 
 Course: B.Tech
 
