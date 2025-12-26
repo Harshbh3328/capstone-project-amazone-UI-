@@ -1,4 +1,7 @@
 🛒 Amazon UI Clone – React Project
+**LIVE DEMO**
+https://shashwat232005.github.io/capstone-project-amazone-UI-/
+
 📌 Project Overview
 
 This project is an Amazon UI Clone built as part of an academic assignment on Nimbus.
