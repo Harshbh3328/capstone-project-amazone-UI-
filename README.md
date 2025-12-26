@@ -109,8 +109,7 @@ To run the project locally:
 
 Clone the repository
 
-git clone https://github.com/your-username/amazon-ui-clone.git
-
+https://github.com/shashwat232005/capstone-project-amazone-UI-
 
 Navigate to the project directory
 
